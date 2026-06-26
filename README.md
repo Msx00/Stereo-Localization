@@ -10,3 +10,6 @@ The next version will support modifying the camera resolution.
 Print instrinsic-excl/tool1.pdf in A4 paper, the studio can identify the marker. 
 
 You can edit the XLSX file to match your custom tool.
+
+
+The software supports all common stereo cameras, such as ZED.
