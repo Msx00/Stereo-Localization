@@ -13,3 +13,11 @@ You can edit the XLSX file to match your custom tool.
 
 
 The software supports all common stereo cameras, such as ZED.
+
+
+
+I have upload V2 software.
+
+<p align="center">
+  <img src="StereoProV2.png" width="850">
+</p>
